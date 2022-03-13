@@ -1,0 +1,11 @@
+********** START STATS ***********
+=> Word hello repeated 6 time(s)
+=> Word hi repeated 7 time(s)
+=> Word my repeated 5 time(s)
+=> Word name repeated 5 time(s)
+=> Word bye repeated 12 time(s)
+=> Word keep repeated 2 time(s)
+=> Word long repeated 1 time(s)
+=> Word is repeated 4 time(s)
+=> Word swilam repeated 4 time(s)
+********** END STATS ***********
